@@ -9,4 +9,7 @@ Add the *.h files to the fonts folder in the GLCD libary.
 The files with no extension are font files for use with
 Font Creator - http://www.apetech.de/fontCreator
 
+MIT Licensed.
+
+
 
